@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-repositorio de prueba del modulo 2 del bootcamp de Henry
+este proyecto es una prueba de como crear un repositorio y clonarlo desde mi github a mi pc 
